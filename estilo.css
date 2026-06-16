@@ -1,9 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+
+
+
+
+
 body{
-    background-color: rgb(78, 190, 14)
-    color:red
+    background-color: rgb(78, 190, 14);
+    color:red;
+    
+    
 }
 
 .cabecalho{
+     font-family: "Chelsea Market", system-ui;
 background-color: blue;
 text-align: center;
 padding: 30px
