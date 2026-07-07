@@ -1,1 +1,1 @@
-alert("ola mundo!")
+alert("bandido quer 6 7 resenha!!!!!")
