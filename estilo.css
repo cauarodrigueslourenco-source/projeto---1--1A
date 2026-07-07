@@ -40,3 +40,9 @@ background-color: pink;
 align-items: center;
 padding: 24px;    
 }
+button{
+background-color: blueviolet;
+color: white;
+padding: 32px;
+border-radius: 20px;
+}
